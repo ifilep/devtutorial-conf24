@@ -34,10 +34,8 @@
     }
   }, 
   "dependencies": {
-
-    }
   },
   "tasks": [""],
-  "supportedDeployments": [""],
-  "targetWorkloads": [""]
+  "supportedDeployments": ["_standalone", "_distributed"],
+  "targetWorkloads": ["*"]
 }
