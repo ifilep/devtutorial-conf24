@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "2.0.0", 
+  "info": {
+    "title": "Test for devtutorail", 
+    "id": {
+      "group": null, 
+      "name": "splunk_app_example", 
+      "version": "5.2.3"
+    }, 
+    "author": [
+      {
+        "name": "Splunk, Inc.", 
+        "email": "support@splunk.com",
+        "company": null
+      }
+    ],
+    "releaseDate": null,
+    "description": "", 
+    "classification": {
+      "intendedAudience": "",
+      "categories": [""],
+      "developmentStatus": ""
+    }, 
+    "commonInformationModels": null, 
+    "license": {
+      "name": "Splunk Software License Agreement",
+      "text": "license-eula.txt",
+      "uri": "https://www.splunk.com/en_us/legal/splunk-software-license-agreement.html"
+    }, 
+    "releaseNotes": {
+      "name": "README", 
+      "text": "README.txt",
+      "uri": "https://docs.splunk.com/Documentation/UnixApp/latest/User/Releasenotes"
+    }
+  }, 
+  "dependencies": {
+
+    }
+  },
+  "tasks": [""],
+  "supportedDeployments": [""],
+  "targetWorkloads": [""]
+}
