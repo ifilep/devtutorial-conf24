@@ -1,4 +1,0 @@
-<nav>
-    <view name="search" default="true"/>
-    <view name="dashboards" />
-</nav>
