@@ -30,7 +30,7 @@ jobs:
               run: mkdir app-dir            
 
             - name: Create package        
-              run: ucc-gen package --path output/devtutorial_conf24/package/ -o app-dir/            
+              run: ucc-gen package --path package/ -o app-dir/            
 
             - name: Upload package        
               uses: actions/upload-artifact@v4        
