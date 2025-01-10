@@ -210,10 +210,10 @@
         }
     },
     "meta": {
-        "name": "devtutorial_conf24",
-        "restRoot": "devtutorial_conf24",
+        "name": "splunk_app_example",
+        "restRoot": "splunk_app_example",
         "version": "1.0.0",
-        "displayName": "Devtutorial for conf24",
+        "displayName": "Test for devtutorail",
         "schemaVersion": "0.0.3"
     }
 }
